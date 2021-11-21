@@ -1,4 +1,8 @@
-# Getting Started with Create React App
+# A simple web app built to learn react-hooks
+
+Hooks covered -- useState, useEffect and the cleanup function, useRef
+
+## Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
